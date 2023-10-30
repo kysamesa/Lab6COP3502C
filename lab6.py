@@ -1,2 +1,2 @@
 # Test Commit
-print("test commit")
+print("Test Commit")
